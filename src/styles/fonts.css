@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Borna';
+    src: url('/fonts/borna/borna-regular-webfont.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Borna';
+    src: url('/fonts/borna/borna-medium-webfont.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Borna';
+    src: url('/fonts/borna/borna-mediumitalic-webfont.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Borna';
+    src: url('/fonts/borna/borna-semibold-webfont.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Borna';
+    src: url('/fonts/borna/borna-sebolditalic-webfont.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Borna';
+    src: url('/fonts/borna/borna-bold-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Borna';
+    src: url('/fonts/borna/borna-bolditalic-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}

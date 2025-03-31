@@ -1,10 +1,5 @@
-export default function Home() {
-  return <div style={{
-    display: 'flex',
-    justifyContent: 'center',
-    alignItems: 'center',
-    height: '100vh',
-    width: '100vw',
-    fontSize: '16px',
-  }}>in progress...</div>
+export default function App() {
+  return  <div className="screen screen-home">
+    <div className="text-info">[in progress...]</div>
+  </div>
 }
