@@ -8,10 +8,6 @@ export default function App({ Component, pageProps }: AppProps) {
     <>
       <Component {...pageProps} />
       <GoogleTagManager gtmId="G-GPMMR2C5TG" />
-      </>
-   
-)}
-
-
- 
-
+    </>
+  )
+}
